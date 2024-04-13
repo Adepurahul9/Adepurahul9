@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adepurahul9
 - 👀 I’m interested in html , css , c , python 
-- 🌱 I’m currently learning  java
+- 🌱 I’m currently learning  java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Instagram:heyyy_rah
 - 😄 Pronouns: ...
