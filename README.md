@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adepurahul9
-- 👀 I’m interested in html , css , c , python 
-- 🌱 I’m currently learning  java Script
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rahul Adepu
+- 👀 I’m interested in html , css , javaScript , python , c language
+- 🌱 I’m currently learning  React.js
+- 💞️ I’m looking to collaborate on React.js developers
 - 📫 How to reach me ... Instagram:heyyy_rah
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
